@@ -1,6 +1,0 @@
-# Treat .c and .h files as C code
-*.c linguist-language=C
-*.h linguist-language=C
-
-# Force GitHub to detect everything, even small files
-** linguist-detectable=true
